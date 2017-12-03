@@ -9,3 +9,4 @@ Faculty position recruitment ads in India
 * Indore: http://hss.iiti.ac.in/disciplines.html
 * https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology
 * Gandhinagar: http://www.iitgn.ac.in/faculty-recruitment.htm
+  * http://www.iitgn.ac.in/pdf/Qualifications-and-Scales-2016.pdf
