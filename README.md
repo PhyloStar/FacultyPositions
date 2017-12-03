@@ -1,4 +1,4 @@
-# FacultyPositions
+# Faculty Positions
 Faculty position recruitment ads in India
 
 * Jodhpur: http://iitj.ac.in/faculty/index.php?id=faculty_positions
