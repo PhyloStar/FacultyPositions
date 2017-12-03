@@ -8,3 +8,4 @@ Faculty position recruitment ads in India
 * Palakkad: http://61.0.251.14/facap/sites/default/files/Advt-Faculty-2017Oct.pdf
 * Indore: http://hss.iiti.ac.in/disciplines.html
 * https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology
+* Gandhinagar: http://www.iitgn.ac.in/faculty-recruitment.htm
