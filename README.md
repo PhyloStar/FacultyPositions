@@ -10,4 +10,4 @@ Faculty position recruitment ads in India
 * https://en.wikipedia.org/wiki/Indian_Institutes_of_Technology
 * Gandhinagar: http://www.iitgn.ac.in/faculty-recruitment.htm
   * http://www.iitgn.ac.in/pdf/Qualifications-and-Scales-2016.pdf
-* Gitam: https://eweb.gitam.edu/faculty/images/Require%20Faculty_2-8-17.pdf
+* DAIICT: http://www.daiict.ac.in/daiict/misc/Prospective_Faculty.html#
