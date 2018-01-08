@@ -11,3 +11,4 @@ Faculty position recruitment ads in India
 * Gandhinagar: http://www.iitgn.ac.in/faculty-recruitment.htm
   * http://www.iitgn.ac.in/pdf/Qualifications-and-Scales-2016.pdf
 * DAIICT: http://www.daiict.ac.in/daiict/misc/Prospective_Faculty.html#
+* Hyderabad: https://www.iith.ac.in/index.php/other-links/iith-recruitment?id=78
